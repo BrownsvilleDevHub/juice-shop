@@ -313,6 +313,7 @@ The OWASP Juice Shop core project team are:
 - [Jannik Hollenbach](https://github.com/J12934) aka `J12934`
 - [Timo Pagel](https://github.com/wurstbrot) aka `wurstbrot`
 - [Shubham Palriwala](https://github.com/ShubhamPalriwala) aka `ShubhamPalriwala`
+- [Alex Wilber](https://github.com/AlexWilber-BCS) aka 'awilber92'
 
 For a list of all contributors to the OWASP Juice Shop please visit our
 [HALL_OF_FAME.md](HALL_OF_FAME.md).
